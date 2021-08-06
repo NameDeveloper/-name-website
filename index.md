@@ -7,6 +7,15 @@ Most files in this repository aren't made by the Developers at (Name), but are m
 You'll also find change-logs for the server posted here as well. 
 
 
+## Meet the team!
+
+- ImBad
+    - GitHub Page maintainer and Lead Developer
+
+- Clarky
+    - Lead Developer
+
+
 
 
 ###### Server Change-Log List
