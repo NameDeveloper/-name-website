@@ -1,4 +1,4 @@
-## Welcome to (Name)'s GitHut Page!
+## Welcome to (Name)'s GitHub Page!
 
 Here you'll see all the files that we use within the server, only a select amount of people have access to this page. So class your self as LUCKY!
 
