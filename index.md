@@ -11,4 +11,4 @@ You'll also find change-logs for the server posted here as well.
 
 ###### Server Change-Log List
 
-- [Change-Log #001](
+- [Change-Log #001](https://namedeveloper.github.io/-name-website/changelog01.html)
