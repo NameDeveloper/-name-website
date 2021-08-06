@@ -9,9 +9,10 @@ You'll also find change-logs for the server posted here as well.
 
 ## Meet the team!
 
+- PuppyPants69
+    - Developer and Founder
 - ImBad
     - GitHub Page maintainer and Lead Developer
-
 - Clarky
     - Lead Developer
 
