@@ -1,7 +1,7 @@
 ---
-title: Change Log Version 1
-layout: template
-filename: change-log#001.md
+layout: page
+title: "Change Log Version 1"
+permalink: /changelog01/
 ---
 
 
