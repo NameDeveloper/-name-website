@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: template
 title: "Change Log Version 1"
 permalink: /changelog01.html
 ---
