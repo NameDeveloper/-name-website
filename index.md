@@ -27,4 +27,4 @@ You'll also find change-logs for the server posted here as well.
 ## Current Known Server Issues
 
 - Some players can't use pma_voice 
-    > Ans: We've realised this and we are working on a fix for this - For now please be paitent. It only affects one player at this moment. If it affects you please report it to the Dev Team - ImBad
+    > Ans: We've realised this and we are working on a fix for this - For now please be patient. It only affects one player at this moment. If it affects you please report it to the Dev Team - ImBad
