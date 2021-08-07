@@ -9,7 +9,7 @@ permalink: /devpreview01.html
 
 ``` Description ```
 
-Lorem markdownum, longoque fames aurum vellem Iole abunde undas dexteriore
+- Lorem markdownum, longoque fames aurum vellem Iole abunde undas dexteriore
 saepe. Socer usque agitatis staminaque illi. Mirantes o comae latentem curvo,
 intrarant Caesareos labra cum inritat exorata. Omnis ille; pendent capiti; tamen
 reliquit ecce quondam voce et.
@@ -20,6 +20,6 @@ reliquit ecce quondam voce et.
 
 
 ``` Estimated Date To Be Added ```
-00/00/0000 
+- 00/00/0000 
 `(06-08-2021 - ImBad)`
 
