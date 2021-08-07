@@ -37,3 +37,4 @@ Most of the scripts that you'll see on this site aren't owned/created by the dev
     > We've realised what causes this, this isn't a server sided issue rather than a client sided issue, [read this post to see how to fix it](https://namedeveloper.github.io/-name-website//discordpermsfix.html)
 
 ###### [If you've got any issues please don't hesitate to report it here](https://github.com/NameDeveloper/-name-website/issues/new)
+[![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/qDw99uSveK)
