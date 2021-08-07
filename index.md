@@ -4,7 +4,7 @@ Here you'll find all the change-logs and development previews for the server.
 
 In this site it'll go into detail on the different items we've added/planning to add.
 
-Most of the scripts that you'll see in on this site aren't owned/created by the developers of the server, however we'd like to show them off, we'll try to add links to the original posts as best we can.
+Most of the scripts that you'll see on this site aren't owned/created by the developers of the server, however we'd like to show them off, we'll try to add links to the original posts as best we can.
 
 
 ## Meet the team!
