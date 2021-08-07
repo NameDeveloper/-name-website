@@ -24,6 +24,7 @@ Most of the scripts that you'll see on this site aren't owned/created by the dev
 - [Change-Log #001](https://namedeveloper.github.io/-name-website//changelog01.html)
 - [Change-Log #002](https://namedeveloper.github.io/-name-website//changelog02.html)
 - [Change-Log #003](https://namedeveloper.github.io/-name-website//changelog03.html)
+- [Change-Log #004](https://namedeveloper.github.io/-name-website//changelog04.html)
 
 ## Server Development Previews
 
