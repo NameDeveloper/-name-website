@@ -12,7 +12,7 @@ permalink: /changelog01.html
 - Added a [Lambourghini Centanario](https://gta5-mods.com) - LP770
 - Added a [Lexus RX570](https://gta5-mods.com) - Wald2018
 - Added a [Audi R8](https://gta5-mods.com) - R820
-- Added a [Toyota Supra](https://www.gta5-mods.com/vehicles/toyota-supra-mkiv-tuned-add-on-tuning A80 (More items to be added so it can be tunable)
+- Added a [Toyota Supra](https://www.gta5-mods.com/vehicles/toyota-supra-mkiv-tuned-add-on-tuning) A80 (More items to be added so it can be tunable)
 - Added a [Porche 911 GTX](https://gta5-mods.com) - PGT34
 - Added a [Nissan GTR 2021](https://gta5-mods.com) - GTR50
 
