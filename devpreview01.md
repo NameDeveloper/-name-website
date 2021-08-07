@@ -9,7 +9,7 @@ permalink: /devpreview01.html
 
 ``` Description ```
 
-- A simple script that allows you to carry people over your sholder. It's very simular to a piggyback script. 
+A simple script that allows you to carry people over your sholder. It's very simular to a piggyback script. 
 
 Commands for this script will be:
 
