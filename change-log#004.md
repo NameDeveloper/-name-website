@@ -30,4 +30,3 @@ permalink: /changelog04.html
 - Nothing
 
 `(07-08-2021 - ImBad)`
-
