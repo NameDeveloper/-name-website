@@ -25,6 +25,10 @@ You'll also find change-logs for the server posted here as well.
 - [Change-Log #002](https://namedeveloper.github.io/-name-website//changelog02.html)
 - [Change-Log #003](https://namedeveloper.github.io/-name-website//changelog03.html)
 
+## Server Development Previews
+
+- [Development Preview #1](https://namedeveloper.github.io/-name-website//devpreview01.html)
+
 ## Current Known Server Issues
 
 - Some players can't use pma_voice 
