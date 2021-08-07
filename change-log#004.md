@@ -9,7 +9,7 @@ permalink: /changelog04.html
 
 ``` Vehicle Updates: ```
 
-- Add a LEO Unmarked F350
+- Add a LEO [Unmarked F350](https://forum.cfx.re/t/ford-f350-superduty-lifted-uc-vehicle/3104629)
 
 ‎``` Script Updates: ```
 
