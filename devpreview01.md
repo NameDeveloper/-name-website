@@ -9,18 +9,19 @@ permalink: /devpreview01.html
 
 ``` Description ```
 
-- Lorem markdownum, longoque fames aurum vellem Iole abunde undas dexteriore
-saepe. Socer usque agitatis staminaque illi. Mirantes o comae latentem curvo,
-intrarant Caesareos labra cum inritat exorata. Omnis ille; pendent capiti; tamen
-reliquit ecce quondam voce et.
+- A simple script that allows you to carry people over your sholder. It's very simular to a piggyback script. 
+
+Commands for this script will be:
+
+/carry - When you are close to someone, either person can type /carry to cancel the action.
 
 ``` Image/Video Preview ```
-![ImageTest](https://img.gta5-mods.com/q75/images/toyota-supra-paul-walker-fast-and-furious/cf9a15-supra.png)
+![CarryPreview](https://forum.cfx.re/uploads/default/original/4X/9/2/9/929c86f9b345e954c5ed4d7acddc431aaf4e0a14.jpeg)
 
 
 
 ``` Estimated Date To Be Added ```
-- 00/00/0000 
+- 07/08/2021 
 
 `(06-08-2021 - ImBad)`
 
