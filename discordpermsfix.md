@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Change Log Version 2"
+title: "How To Fix Non Syncing Of FiveM Roles"
 permalink: /discordpermsfix.html
 ---
 
