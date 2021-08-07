@@ -28,6 +28,7 @@ Most of the scripts that you'll see on this site aren't owned/created by the dev
 ## Server Development Previews
 
 - [Development Preview #001](https://namedeveloper.github.io/-name-website//devpreview01.html)
+- [Development Preview #002](https://namedeveloper.github.io/-name-website//devpreview02.html)
 
 ## Current Known Server Issues
 
