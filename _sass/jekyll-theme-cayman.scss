@@ -119,7 +119,7 @@ a {
   background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
   background-image: url(https://cdn.discordapp.com/attachments/640618239000576031/870431222357192754/unknown.png);
   background-repeat: no-repeat;
-  background-position: -30px;
+  background-position: 0px;
 
   @include large {
     padding: 5rem 6rem;
