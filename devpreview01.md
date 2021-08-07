@@ -5,7 +5,7 @@ permalink: /devpreview01.html
 ---
 
 
-###### Change Log page for Version `002`
+###### Development Preview Version `001`
 
 ``` Description ```
 
@@ -21,5 +21,6 @@ reliquit ecce quondam voce et.
 
 ``` Estimated Date To Be Added ```
 - 00/00/0000 
+
 `(06-08-2021 - ImBad)`
 
