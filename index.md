@@ -27,7 +27,7 @@ Most of the posts you'll see in on this site aren't owned/created by the develop
 
 ## Server Development Previews
 
-- [Development Preview #1](https://namedeveloper.github.io/-name-website//devpreview01.html)
+- [Development Preview #001](https://namedeveloper.github.io/-name-website//devpreview01.html)
 
 ## Current Known Server Issues
 
