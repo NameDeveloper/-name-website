@@ -1,10 +1,10 @@
 ## Welcome to (Name)'s GitHub Page!
 
-Here you'll see all the files that we use within the server, only a select amount of people have access to this page. So class your self as LUCKY!
+Here you'll find all the change-logs and development previews for the server.
 
-Most files in this repository aren't made by the Developers at (Name), but are maintained. Links to the original developers are with each file.
+In this site it'll go into detail on the different items we've added/planning to add.
 
-You'll also find change-logs for the server posted here as well. 
+Most of the posts you'll see in on this site aren't owned/created by the developers of the server, however we'd like to show them off, we'll try to add links to the original posts as best we can.
 
 
 ## Meet the team!
