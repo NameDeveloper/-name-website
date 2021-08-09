@@ -12,7 +12,7 @@ permalink: /devpreview04.html
 We've got new Vehicle Textures for LSPD - They are based of the LAPD, we won't be having any K9 or Supervisor textures only base LSPD Textures. They aren't downloaded but are instead made by one of the Development team - Please be paitent while we create these texutres; There will be some teaser photos bellow. 
 
 ``` Image/Video Preview ```
-![LSPDTeaser1](https://cdn.discordapp.com/attachments/854396343388864542/874296972989849670/unknown.png)
+![LSPDTeaser1](https://cdn.discordapp.com/attachments/690648795763048559/874303053786935316/unknown.png)
 ![LSPDTeaser2](https://cdn.discordapp.com/attachments/690648795763048559/874305737562677338/unknown.png)
 ![LSPDTeaser3](https://cdn.discordapp.com/attachments/690648795763048559/874305543626444820/unknown.png)
 
