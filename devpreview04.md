@@ -13,7 +13,8 @@ We've got new Vehicle Textures for LSPD - They are based of the LAPD, we won't b
 
 ``` Image/Video Preview ```
 ![LSPDTeaser1](https://cdn.discordapp.com/attachments/854396343388864542/874296972989849670/unknown.png)
-![LSPDTeaser2](https://cdn.discordapp.com/attachments/854396343388864542/874297176698794055/unknown.png)
+![LSPDTeaser2](https://cdn.discordapp.com/attachments/690648795763048559/874305737562677338/unknown.png)
+![LSPDTeaser3](https://cdn.discordapp.com/attachments/690648795763048559/874305543626444820/unknown.png)
 
 
 
