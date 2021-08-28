@@ -49,5 +49,5 @@ Requirement:
     -    Rain Jacket
     -    High Visibility Vest - for traffic control.
     -    Extra equipment such as batteries, cable ties, tape, and hand sanitizer.
--    Only TEU can administer field sobriety tests, this includes the breathalyzer.
-    -    An at-station breathalyzer can be used by officers if no TEU is on, or a blood draw at a hospital.
+- Only TEU can administer field sobriety tests, this includes the breathalyzer.
+    - An at-station breathalyzer can be used by officers if no TEU is on, or a blood draw at a hospital.
