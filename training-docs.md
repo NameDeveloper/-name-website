@@ -26,6 +26,8 @@ Important links:
 Activity:
 - Briefly point out that members can check the last time they played by asking Department Relations.
 
+
+
 ``` Training Guide for LEO ```
 
 **LEO Equipment**
@@ -51,3 +53,17 @@ Requirement:
     -    Extra equipment such as batteries, cable ties, tape, and hand sanitizer.
 - Only TEU can administer field sobriety tests, this includes the breathalyzer.
     - An at-station breathalyzer can be used by officers if no TEU is on, or a blood draw at a hospital.
+
+
+
+**Comms/RTO**
+
+*Requirement:*
+
+- Ensure that RTO is followed at all times
+- Ensure they know how to do proper call outs ( Give them scenarios and tell them to do the call out for it.)
+    - ex. 1L326 Traffic Postal 9100 Grove St Black 4 Door Sports occupied 1x No additionals needed.
+- Do’s and Don'ts of comm traffic
+    - No unnecessarily long transmissions, or long pauses.
+    - No fluff wording (Unnecessary info, ummm’s, ect.)
+    - Keep it Short and to the point with all relevant info.
