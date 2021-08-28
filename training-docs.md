@@ -298,7 +298,7 @@ Note - Bean Bag Rounds and Tasers are used when a person is a danger to themselv
     - Proper Jailing is required or discipline issued to officers performing arrest.
 - Penal Code (Read it! Have it up when patrolling!)
 - Players to AI is also a thing for Roleplay.
-- Make sure the recruit understands and agrees to follow rules of Aspirant Gaming.
+- Make sure the recruit understands and agrees to follow rules of ELX Roleplay.
 - Question Time!
 - Congratulate recruit on passing/Correct any failings
 
