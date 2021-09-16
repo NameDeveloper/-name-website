@@ -10,7 +10,7 @@ Most of the scripts that you'll see on this site aren't owned/created by the dev
 ## Meet the team!
 
 - PuppyPants69
-    - Developer and Founder
+    - Founder
 - ImBad
     - GitHub Page maintainer and Lead Developer
 - Clarky
